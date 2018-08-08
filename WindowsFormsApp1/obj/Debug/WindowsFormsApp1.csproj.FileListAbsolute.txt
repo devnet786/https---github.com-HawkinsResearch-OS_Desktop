@@ -1,0 +1,117 @@
+C:\Projects\PowerClaimDesktop - Outsource\Trial1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Projects\PowerClaimDesktop - Outsource\Trial1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Projects\PowerClaimDesktop - Outsource\Trial1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Projects\PowerClaimDesktop - Outsource\Trial1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Projects\PowerClaimDesktop - Outsource\Trial1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Projects\PowerClaimDesktop - Outsource\Trial1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Projects\PowerClaimDesktop - Outsource\Trial1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Projects\PowerClaimDesktop - Outsource\Trial1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Projects\PowerClaimDesktop - Outsource\Trial1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Projects\PowerClaimDesktop - Outsource\Trial1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FEstSettings.resources
+C:\Projects\PowerClaimDesktop - Outsource\Trial1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startup.resources
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\DevExpress.Data.v17.2.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v17.2.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\DevExpress.Data.v17.2.xml
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FEditEstimate.resources
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FEstSettings.resources
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startup.resources
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Diksha\DikshaNew\Clients\Window-Telerik\OS_Desktop-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.v17.2.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FEditEstimate.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FEstSettings.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startup.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
